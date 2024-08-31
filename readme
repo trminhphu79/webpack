@@ -1,5 +1,8 @@
 A simple starter kit for building web applications using **Webpack**, **SCSS**, **JavaScript**.
 
+Step 1: npm install
+
+Step 2: npm run build:dev
 
 Author
 Tran Minh Phu
